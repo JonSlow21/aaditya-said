@@ -26,7 +26,7 @@ Conducted comprehensive exploratory data analysis, statistical analysis, and dat
 
 Data Analysis Project aims to explore, visualize, and analyze data from the IPL cricket matches. By leveraging historical match data, player statistics, and team performances, the project seeks to uncover insights, trends, and patterns that can enhance the understanding of the game and support strategic decision-making.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/img/bike_study.jpeg)
 
 
 ## Publications
