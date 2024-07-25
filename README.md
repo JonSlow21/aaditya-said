@@ -3,8 +3,13 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education					       		
-- B.E., Artificial Intelligence and Data Science (_May_2025_)
-- Diploma., Computer Scienece (_November_2022_)
+- B.E., Artificial Intelligence and Data Science | (_May_2025_)
+- Diploma., Computer Scienece | (_November_2022_)
+
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience ( About my self )
 **Data Scientist (Fresher)**
